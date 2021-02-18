@@ -1,4 +1,4 @@
-# Personality Assessment Tests --PROLOG
+# Rule-based Personality Assessment Expert System -- PROLOG
 ### CSC613M (Introduction to Intelligent Systems) MC3
 
 Rule-based Personality Assessment Expert System
